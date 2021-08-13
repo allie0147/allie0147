@@ -11,7 +11,9 @@
 <a href="https://gitlab.qtzz.synology.me/hmju"><img src="https://img.shields.io/badge/-GitLab-lightgrey?style=flat&logo=Gitlab"/></a> 
 <a href="https://jsieun73.tistory.com"><img src="https://img.shields.io/badge/Blog-orange"/></a>
 </p> --->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=allie0147&show_icons=true&theme=material-palenight&count_private=true&hide_border=true&include_all_commits=true&custom_title=Github%20Status)    
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=allie0147&theme=material-palenight&hide_border=true&repo=allie0147)](https://github.com/allie0147/allie0147)
+#### Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allie0147&layout=compact&theme=material-palenight&hide_border=true&hide_title=true)](https://github.com/allie0147/github-readme-stats)   
+#### GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=allie0147&show_icons=true&theme=material-palenight&count_private=true&hide_border=true&include_all_commits=true&hide_title=true)    
+#### Repos
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=allie0147&theme=nord&hide_border=true&repo=allie0147)](https://github.com/allie0147/allie0147)
