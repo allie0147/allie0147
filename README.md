@@ -1,7 +1,7 @@
 <!--  <center>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=auto&height=300&section=header&text=iOS Developer%20Allie%20Kim&fontSize=90"/> -->
 <!-- </center> -->
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=auto&animation=fadeIn&fontColor=ffffff&fontAlign=20&fontAlignY=54&descAlign=20&descAlignY=65&text=Allie%20Kim&fontSize=40&desc=iOS%20Developer)
+![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&animation=fadeIn&fontColor=ffffff&fontAlign=20&fontAlignY=50&descAlign=20&descAlignY=60&text=Allie%20Kim&fontSize=40&desc=iOS%20Developer)
 
 #### Tech Stack   
 <img src="https://img.shields.io/badge/-iOS-000000?style=flat&logo=iOS%logoColor=white"/> <img src="https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/-CocoaPods-EE3322?style=flat&logo=CocoaPods&logoColor=white"/> <img src="https://img.shields.io/badge/-ReactiveX-B7178C?style=flat&logo=ReactiveX&logoColor=white"/> <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>    
