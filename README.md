@@ -11,7 +11,7 @@
 
 
 > #### *GitHub Stats*
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=allie0147&show_icons=true&theme=material-palenight&count_private=true&hide_border=true&include_all_commits=true&hide_title=true0&hide=contribs)    
+![Anurag's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=allie0147&show_icons=true&theme=material-palenight&count_private=true&hide_border=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide_title=true&hide=contribs)    
   
   
 > #### *Most Used Languages*
