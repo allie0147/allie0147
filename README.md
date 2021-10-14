@@ -6,7 +6,7 @@
 > #### *Repos*
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=allie0147&description=true&theme=nord&hide_border=true&repo=kiwiProject)](https://github.com/allie0147/kiwiProject)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=allie0147&description=true&theme=nord&hide_border=true&repo=Unsplash_Api_Swift)](https://github.com/allie0147/Unsplash_Api_Swift)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=allie0147&description=true&theme=nord&hide_border=true&repo=RxSwift_UITableView)](https://github.com/allie0147/RxSwift_UITableView)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=allie0147&description=true&theme=nord&hide_border=true&repo=CityAirportSearch)](https://github.com/allie0147/CityAirportSearch)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=allie0147&description=true&theme=nord&hide_border=true&repo=SpotifyExample)](https://github.com/allie0147/SpotifyExample)       
 
 
