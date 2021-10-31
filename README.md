@@ -4,15 +4,15 @@
      
      
 > #### *Repos*
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=allie0147&description=true&theme=nord&hide_border=true&repo=kiwiProject)](https://github.com/allie0147/kiwiProject)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=allie0147&description=true&theme=nord&hide_border=true&repo=Unsplash_Api_Swift)](https://github.com/allie0147/Unsplash_Api_Swift)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=allie0147&description=true&theme=nord&hide_border=true&repo=CityAirportSearch)](https://github.com/allie0147/CityAirportSearch)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=allie0147&description=true&theme=nord&hide_border=true&repo=SpotifyExample)](https://github.com/allie0147/SpotifyExample)       
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=allie0147&description=true&theme=vue&hide_border=false&repo=kiwiProject)](https://github.com/allie0147/kiwiProject)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=allie0147&description=true&theme=vue&hide_border=false&repo=Unsplash_Api_Swift)](https://github.com/allie0147/Unsplash_Api_Swift)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=allie0147&description=true&theme=vue&hide_border=false&repo=CityAirportSearch)](https://github.com/allie0147/CityAirportSearch)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=allie0147&description=true&theme=vue&hide_border=false&repo=SpotifyExample)](https://github.com/allie0147/SpotifyExample)       
 
 
 > #### *GitHub Stats*
-![Anurag's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=allie0147&show_icons=true&theme=material-palenight&count_private=true&hide_border=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide_title=true&hide=contribs)    
+![Anurag's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=allie0147&show_icons=true&theme=vue&count_private=true&hide_border=false&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide_title=true&hide=contribs)    
   
   
 > #### *Most Used Languages*
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allie0147&layout=compact&theme=material-palenight&hide_border=true&hide_title=true)   
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allie0147&layout=compact&theme=vue&hide_border=false&hide_title=true)   
